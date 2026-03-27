@@ -8,7 +8,7 @@ GitHub Releases in this repo contain all deployment artifacts:
 
 | Artifact | Description |
 |----------|-------------|
-| **Docker image** | `ghcr.io/opendatadurban/bdt-api:{version}` (pushed to GHCR, not attached here) |
+| **Docker image** | `ghcr.io/opendatadurban/bdt-api:{version}` (public GHCR package, not attached here) |
 | **Docker deployment kit** | `bdt-docker-kit-{version}.zip` — docker-compose.yml, .env.example, deployment README |
 | **Native API (Linux)** | `bdt-api-{version}-linux-x64.tar.gz` — API + bundled Node.js + PM2 |
 | **Native API (Windows)** | `bdt-api-{version}-windows-x64.zip` — API + bundled Node.js + PM2 |
