@@ -29,8 +29,7 @@ GitHub Releases in this repo contain all deployment artifacts:
 
 ## Documentation
 
-Detailed deployment guides, CLI usage, and X-Road configuration instructions are included in each release's deployment kit and in the [source repository](https://github.com/opendatadurban/x-road-tus-adapter).
-
+Detailed deployment guides, CLI usage, and X-Road configuration instructions are included in each release's deployment kit.
 ## About
 
 BDT enables government departments connected to the MzansiXchange X-Road network to transfer large datasets (20GB–2TB+) reliably using resumable uploads. Transfers can be paused, resumed, and monitored via the CLI or API.
